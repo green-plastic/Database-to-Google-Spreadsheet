@@ -21,3 +21,6 @@ It was used for a wedding website for the RSVP.
 	  PRIMARY KEY (`id`)
 	) ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=latin1;
 
+###Notes
+
+It should be noted that google.php is the script to be run, google_spreadsheet.php, is a class that allows for sending the data to Google Spreadsheets.
