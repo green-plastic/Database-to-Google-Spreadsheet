@@ -24,3 +24,9 @@ It was used for a wedding website for the RSVP.
 ###Notes
 
 It should be noted that google.php is the script to be run, google_spreadsheet.php, is a class that allows for sending the data to Google Spreadsheets.
+
+###Google Spreadsheet class
+
+The Google spreadsheet class comes from the PHP Form Builder Class [located here](http://code.google.com/p/php-form-builder-class/) and is not my creation, google.php is my creation.
+
+Here's a direct link to the [class](http://code.google.com/p/php-form-builder-class/source/browse/branches/1.x/includes/class.spreadsheet.php).
